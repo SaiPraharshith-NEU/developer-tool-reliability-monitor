@@ -1,0 +1,1002 @@
+[
+  {
+    "record_id": "microsoft/vscode#339191",
+    "title": "MCP servers are missing in remote windows",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "0",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158583",
+    "title": "bytes.fromhex() reads uninitialized memory",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "1",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#335906",
+    "title": "Show migration status badges on the MCP customization page",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "test",
+    "group": "2",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#338614",
+    "title": "MCP servers from ~/.copilot/mcp-config.json are not shown in AI Customization",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "0",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#93814",
+    "title": "GitHub Action Error Log",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "test",
+    "group": "4",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339157",
+    "title": "Test: \"Continue with Microsoft\" only when your Microsoft account links to GitHub",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "5",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#277435",
+    "title": "GitHub Enterprise should allow multiple servers",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "6",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339187",
+    "title": "Agent turn should not end while background commands are still running",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "7",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#66441",
+    "title": "node-api: objects from node_api_create_object_with_properties are in dictionary mode",
+    "source": "Node.js",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "8",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158402",
+    "title": "Lazy import triggers C assert if reading `spec._initializing` raises",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "9",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#338932",
+    "title": "Existing Local chat session remains usable after managed Agent Host sandbox policy applies",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "10",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#338920",
+    "title": "Markdown links drop non-line fragments like #page=3 when opening files (PDF links always open on page 1)",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "11",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158316",
+    "title": "Unnecessary lock in `bytearray.decode`",
+    "source": "CPython",
+    "label": "planned_work",
+    "split": "test",
+    "group": "12",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339183",
+    "title": "Test: Arrange sessions in a grid",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "13",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339088",
+    "title": "Tool grouping/virtual tools broken for custom endpoints",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "0",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339182",
+    "title": "Test: GHES with GitHub Pull Requests and GHE.com with Copilot, side by side",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "6",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339134",
+    "title": "Enable context menu hide of welcome phrases",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "16",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#155742",
+    "title": "Treat bytes objects as immutable in C code",
+    "source": "CPython",
+    "label": "planned_work",
+    "split": "test",
+    "group": "17",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158539",
+    "title": "profiling.sampling: exception mode misses except blocks running in generators and coroutines",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "18",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#318366",
+    "title": "\"Open Recent\" / \"Select to open\" (CTRL+R) shows incorrect results - it doesn't consider the file/dir title",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "19",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339177",
+    "title": "MCP migration picker: clicking a server row or checkbox does not reliably toggle selection",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "2",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#332836",
+    "title": "VS Code renderer causes severe memory/commit leak while idle, eventually freezing Windows",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "21",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339173",
+    "title": "Terminal shortcuts should take priority over VS Code commands when alternate buffer is active",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "test",
+    "group": "22",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339174",
+    "title": "Keep default chat input permissions in sync across chat surfaces",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "23",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339172",
+    "title": "New harness breaks change reporting",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "24",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#338768",
+    "title": "Clicking on the \"Discover\" tab doesn't highlight the tab",
+    "source": "VS Code",
+    "label": "insufficient_context",
+    "split": "excluded",
+    "group": "25",
+    "rationale": "Excerpt is too short to infer intended work; excluded from training and evaluation.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#338493",
+    "title": "Agent Customizations: Keep row actions aligned when status indicators are shown",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "26",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#338583",
+    "title": "Plugin marketplace: failed ref clone leaves an empty cache that blocks unpinned installs",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "27",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#338581",
+    "title": "Plugin marketplace: SHA-pinned source is discoverable but installation uses git clone --branch",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "27",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158399",
+    "title": "Remove unused GitHub files from backport branches",
+    "source": "CPython",
+    "label": "planned_work",
+    "split": "train",
+    "group": "29",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#338935",
+    "title": "Inbuilt Browser not picking local system directories",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "30",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#307914",
+    "title": "critical slow for generate messages commit",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "31",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#306824",
+    "title": "Automatically starting plan implementation without approval",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "32",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#337762",
+    "title": "Copilot Chat repeatedly fails with attachment 404 after browser screenshot tool completes",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "33",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339167",
+    "title": "API for language model providers to supply a model icon",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "34",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339168",
+    "title": "Finalize `LanguageModelChatInformation.statusIcon`",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "35",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#319867",
+    "title": "Error during updating extensions from command line",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "36",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158574",
+    "title": "[Free Threading] test_external_inspection: flaky \"[WinError 299] Only part of a ReadProcessMemory or WriteProcessMemory request was completed\" error on GHA Windows CI",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "37",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#142083",
+    "title": "Docstring of array.array misses 'w' type info and mentions wide/narrow builds",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "38",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339126",
+    "title": "Investigate Agent Host enforcement of content exclusions",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "39",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#267703",
+    "title": "VS Code native crash on Mac with error 5",
+    "source": "VS Code",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "40",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339114",
+    "title": "Provide an option to install a specific version of VS Code within the app",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "41",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#338792",
+    "title": "Model picker UX for Free/EDU",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "42",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#145473",
+    "title": "Use source maps if extension ships one for error stack trace formatting",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "43",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#336684",
+    "title": "Need to provide a reasonable way to allow the user to keep track of launched processes",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "44",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#151208",
+    "title": "Import of submodule shadowing parent module attribute fails under lazy_imports mode",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "9",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#335184",
+    "title": "API proposal: Expose AuthenticationSession access token lifetime",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "6",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339164",
+    "title": "Support expiring GitHub tokens with the offline_access scope",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "6",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#335183",
+    "title": "GitHub Authentication: Support expiring GitHub tokens brokered through Microsoft Entra",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "6",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#335182",
+    "title": "Agent Host: Support expiring GitHub tokens with the Copilot SDK",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "6",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339037",
+    "title": "file list is using too much space",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "test",
+    "group": "50",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "microsoft/vscode#339161",
+    "title": "Copilot GHE sign-in accepts only GHE.com and repairs github-enterprise.uris",
+    "source": "VS Code",
+    "label": "planned_work",
+    "split": "train",
+    "group": "6",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#66439",
+    "title": "vm: timeout during an afterEvaluate microtask checkpoint corrupts the async hook stack",
+    "source": "Node.js",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "52",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158567",
+    "title": "Optimize `PyFloat_Pack*()` functions using `_Py_bswap16/32/64()` functions",
+    "source": "CPython",
+    "label": "planned_work",
+    "split": "train",
+    "group": "53",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#66440",
+    "title": "Problem with newer `less`",
+    "source": "Node.js",
+    "label": "insufficient_context",
+    "split": "excluded",
+    "group": "54",
+    "rationale": "Excerpt is too short to infer intended work; excluded from training and evaluation.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158536",
+    "title": "Android logger drops lines as \"chatty\" between API 26 and 30 (inclusive)",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "55",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#157265",
+    "title": "tarfile hardlink fallback ignores custom extraction filter rejection via None",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "56",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158572",
+    "title": "Add an external flag to interpreter frames",
+    "source": "CPython",
+    "label": "planned_work",
+    "split": "train",
+    "group": "57",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158552",
+    "title": "profiling.sampling: `--blocking` sample-read error rate ~33% on AMD EPYC 9V45 (Windows), ~0.5% on other CPUs",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "58",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158570",
+    "title": "ProcessPoolExecutor.shutdown(wait=True) deadlocks when worker exit messages fill the result pipe",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "59",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#156321",
+    "title": "unavoidable spurious \"exception in shielded future\" logged if exception raised after shield cancelled",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "60",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158554",
+    "title": "docs.python.org returning HTTP 503 from multiple Fastly POPs worldwide",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "61",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158235",
+    "title": "Remove unnecessary loads \"critical_section\" from `_PyCriticalSection_SuspendAll`",
+    "source": "CPython",
+    "label": "planned_work",
+    "split": "train",
+    "group": "62",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158273",
+    "title": "_pyrepl: Reader.suspend() discards buffer, pos, and kill_ring",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "63",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158401",
+    "title": "3.14: objects de-immortalized by old stable-ABI extensions break truthiness checks in specialized bytecode",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "64",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#142349",
+    "title": "Implement PEP 810 \u2013 Explicit lazy imports",
+    "source": "CPython",
+    "label": "planned_work",
+    "split": "test",
+    "group": "9",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#124851",
+    "title": "`test_compileall` failed in 2038 on 3.12 and 3.13",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "66",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158566",
+    "title": "`tomllib` reports an error position beyond EOF for some files ending in backslash",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "67",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#66438",
+    "title": "module.enableCompileCache() never returns on Windows for some cache-directory lengths (spins at 100% CPU)",
+    "source": "Node.js",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "68",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#112282",
+    "title": "sys.setrecursionlimit docs are incorrect in 3.12 and 3.13",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "69",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158418",
+    "title": "`super()` raises `TypeError` in a `ctypes.util.struct` method",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "70",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158563",
+    "title": "Rewrite `turtle`'s undo handling to fix various issues",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "71",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#66164",
+    "title": "test_runner: parent runner still crashes on child stdout bytes that mimic an event frame (survives the #64706 fix)",
+    "source": "Node.js",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "72",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#63212",
+    "title": "`sequential/test-debugger-pid` is flaky on Windows",
+    "source": "Node.js",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "73",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158374",
+    "title": "re.search() misses matches when a pattern starts with a scoped (?a:...) or (?u:...) group",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "74",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158413",
+    "title": "ProcessPoolExecutor: after a worker dies, `shutdown(wait=False)` and `submit()` block until every other worker has exited",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "75",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#157698",
+    "title": "`re` docs never say that the ASCII flag affects `\\p{...}` properties",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "76",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158560",
+    "title": "netrc.__repr__() doesnt quote values, so its output often cant be parsed back",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "77",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158445",
+    "title": "C API: Detect invalid UCS4 characters in debug mode",
+    "source": "CPython",
+    "label": "planned_work",
+    "split": "train",
+    "group": "78",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158451",
+    "title": "C API: Rework and enhance the PyUnicodeWriter implementation",
+    "source": "CPython",
+    "label": "planned_work",
+    "split": "test",
+    "group": "79",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158522",
+    "title": "`python -m profiling.sampling --async-aware` shows one frame for a task whose coroutine recurses",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "80",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158556",
+    "title": "inspect.getsourcelines raises TokenError for lambda following a multiline string closing delimiter",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "81",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158546",
+    "title": "zipapp.get_interpreter() raises UnicodeDecodeError on invalid shebang bytes",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "82",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158541",
+    "title": "Support \"shoulder days\" in `calendar.monthcalendar`",
+    "source": "CPython",
+    "label": "planned_work",
+    "split": "train",
+    "group": "83",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158550",
+    "title": "`_remote_debugging`: `write_sample` advances the timestamp before writing the sample",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "84",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#157847",
+    "title": "Restructure the `turtle` documentation",
+    "source": "CPython",
+    "label": "planned_work",
+    "split": "test",
+    "group": "85",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#158500",
+    "title": "date.fromisoformat() silently ignores the last two characters of a 10-character basic-format string",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "86",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#141012",
+    "title": "Use-after-free due to race between SSLContext.set_alpn_protocols and opening a connection",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "87",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "python/cpython#155823",
+    "title": "JIT corruption in `wcmatch` test suite: `yield from []` triggers \"AttributeError: 'list' object has no attribute 'send'\"",
+    "source": "CPython",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "88",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#64972",
+    "title": "ubuntu-slim runners time out after 15 mins while it usually takes <3 mins",
+    "source": "Node.js",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "89",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#66341",
+    "title": "fs: heap buffer overflow in readFileSync(fd, \"utf8\") when a pipe returns short reads",
+    "source": "Node.js",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "90",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#66422",
+    "title": "Discussion: preserving TCP peer addresses at accept time",
+    "source": "Node.js",
+    "label": "planned_work",
+    "split": "train",
+    "group": "91",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#57364",
+    "title": "Unexpected server incoming requests queue after Node.js 20 version (possible performance regression)",
+    "source": "Node.js",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "92",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#40232",
+    "title": "Prevent native Error class hi-jacking in FS errors",
+    "source": "Node.js",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "93",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#66388",
+    "title": "ffi: stopping a Worker while it is in a callback aborts the process",
+    "source": "Node.js",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "94",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#66425",
+    "title": "ffi: `dlclose()`/`dlsym()` check permissions that `handle.close()`/`handle.getSymbol()` don't",
+    "source": "Node.js",
+    "label": "reported_problem",
+    "split": "train",
+    "group": "95",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#52282",
+    "title": "Support loading dynamic addon modules (`.node` files) when embedding the Node.js shared library without needing to link with `node.def`",
+    "source": "Node.js",
+    "label": "planned_work",
+    "split": "train",
+    "group": "96",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#66393",
+    "title": "Freezing deps/v8 on the main branch during major V8 upgrades",
+    "source": "Node.js",
+    "label": "planned_work",
+    "split": "train",
+    "group": "97",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#66268",
+    "title": "`fs.mkdir` with `recursive: true` retries without a progress bound: spins forever on `/proc`, livelocks under concurrent `rmdir`",
+    "source": "Node.js",
+    "label": "reported_problem",
+    "split": "test",
+    "group": "98",
+    "rationale": "Describes existing unexpected behavior, incorrect documentation, a crash, a failure, or a reproducible symptom.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  },
+  {
+    "record_id": "nodejs/node#44118",
+    "title": "RFC 9266: Channel Bindings for TLS 1.3 support",
+    "source": "Node.js",
+    "label": "planned_work",
+    "split": "train",
+    "group": "99",
+    "rationale": "Describes a requested feature, optimization, test plan, API proposal, or maintenance task.",
+    "labeler": "AI-assisted draft; independent human review pending"
+  }
+]
