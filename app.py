@@ -8,6 +8,11 @@ st.caption('DEVELOPER TOOL RELIABILITY MONITOR · REVIEW WORKSPACE')
 st.title('Which reports need a closer look?')
 st.write('Turn reports about Python, Node.js and VS Code into a source-linked review packet for your next planning meeting.')
 st.caption('The model suggests what to review. You decide what belongs in the team’s work queue.')
+with st.container(border=True):
+ st.markdown('**New here? Start with the 3-report example.**')
+ st.write('This tool groups saved GitHub issue reports about Python, Node.js and VS Code. A report describes a problem or a request for future work; it is not proof that your own software is affected.')
+ st.markdown('**1. Leave the saved collection selected.** No file or technical setup is needed.  \n**2. Select Create review packet below.** You will get three example reports grouped by what needs checking.  \n**3. Read a result or download the readable report.** Each result keeps its source link and suggested next step.')
+
 @st.cache_resource
 def ready():return engine.resources()
 try:_,saved,_=ready()
@@ -64,6 +69,10 @@ else:
  a,b,c=st.columns(3)
  for col,route in zip([a,b,c],engine.ROUTES):col.metric(engine.ROUTES[route],sum(x['analysis']['route']==route for x in results))
  st.caption(f'{len(results)} reports included · {len(rejected)} rows not used · Suggestions are not approved work. Check current status at the original source.')
+ with st.container(border=True):
+  st.markdown('**How to read these groups**')
+  st.write('Needs a closer look: the model needs a person to check uncertain or sensitive evidence. Suggested investigation: a reported problem to verify. Suggested planning: a request for future work to consider. These are suggestions, not confirmed problems or approved tasks.')
+
  if rejected:
   with st.expander(f'Check {len(rejected)} rows that could not be used'):
    for x in rejected:st.write(f'Row {x["row"]}: {x["reason"]}')
